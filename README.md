@@ -13,4 +13,4 @@ Special Thanks to [https://github.com/GFW-knocker/gfw_resist_HTTPS_proxy](https:
 
 # Persian
 
-این اپلیکیشن فیل-تر--شکن نیست و نمیتونه آی پی شمارو مخفی کنه
+این اپلیکیشن فیلترشکن نیست و نمیتونه آی پی شمارو مخفی کنه
