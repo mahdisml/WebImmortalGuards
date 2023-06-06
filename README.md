@@ -10,7 +10,7 @@ It's not a VPN, and It will not hide your IP address.
 
 USE IT ONLY WHEN YOU NEED IT, NOT ALL THE TIME.
 
-Special Thanks to [https://github.com/GFW-knocker/gfw_resist_HTTPS_proxy](https://github.com/GFW-knocker/gfw_resist_HTTPS_proxy)
+Python infrastructure and DoH : [https://github.com/GFW-knocker/gfw_resist_HTTPS_proxy](https://github.com/GFW-knocker/gfw_resist_HTTPS_proxy)
 
 # Available in GooglePlay
 
