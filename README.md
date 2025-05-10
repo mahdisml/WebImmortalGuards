@@ -13,6 +13,7 @@ USE IT ONLY WHEN YOU NEED IT, NOT ALL THE TIME.
 Python infrastructure and DoH : [https://github.com/GFW-knocker/gfw_resist_HTTPS_proxy](https://github.com/GFW-knocker/gfw_resist_HTTPS_proxy)
 
 # Available in GooglePlay
+<img alt='Google Play' width="400" height="500" src='https://github.com/user-attachments/assets/e0556da1-c076-48df-a2b5-2c11031b2f3c'/></a>
 
 <a href='https://play.google.com/store/apps/details?id=dev.mahdisml.webimmortalguards&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Get it on Google Play' width="300" height="116" src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png'/></a>
 
