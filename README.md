@@ -17,6 +17,8 @@ Python infrastructure and DoH : [https://github.com/GFW-knocker/gfw_resist_HTTPS
 
 <a href='https://play.google.com/store/apps/details?id=dev.mahdisml.webimmortalguards&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Get it on Google Play' width="300" height="116" src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png'/></a>
 
+another way to download : [https://apkpure.com/web-immortal-guards/dev.mahdisml.webimmortalguards](https://apkpure.com/web-immortal-guards/dev.mahdisml.webimmortalguards)
+
 # Persian
 
 این اپلیکیشن فیلترشکن نیست و نمیتونه آی پی شمارو مخفی کنه
